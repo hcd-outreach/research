@@ -4,7 +4,7 @@ This is list of charity Apps is iOS focussed. Many of these Apps might not be av
 
 * Charity Miles ([App Store](https://itunes.apple.com/gb/app/charity-miles/id505253234?mt=8)) - [review](./reviews/CharityMiles.md)
 * Share the Meal ([App Store](https://itunes.apple.com/us/app/sharethemeal/id977130010)) - [review](./reviews/ShareTheMeal.md)
-* Go Fund Me ([App Store](https://itunes.apple.com/us/app/gofundme/id734130700?mt=8)) - [review](research/reviews/Go Fund Me.md)
+* Go Fund Me ([App Store](https://itunes.apple.com/us/app/gofundme/id734130700?mt=8)) - [review](research/reviews/GoFundMe.md)
 * Good Neighbors ([App Store](https://itunes.apple.com/us/app/%EA%B5%BF%EB%84%A4%EC%9D%B4%EB%B2%84%EC%8A%A4/id398454840?mt=8)) - [review]
 
 * Snap Donate ([App Store](https://itunes.apple.com/gb/app/snapdonate/id919439200?mt=8))
