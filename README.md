@@ -2,10 +2,9 @@
 
 This is list of charity Apps is iOS focussed. Many of these Apps might not be available in all geographies. A couple also look as though they have been discontinued.
 
-* Charity Miles ([App Store](https://itunes.apple.com/gb/app/charity-miles/id505253234?mt=8))
-[Charity Miles](#)
 * Share the Meal ([App Store](https://itunes.apple.com/us/app/sharethemeal/id977130010))
 [Share The Meal](#)
+* Charity Miles ([App Store](https://itunes.apple.com/gb/app/charity-miles/id505253234?mt=8)) - [review](./CharityMiles.md)
 
 * Snap Donate ([App Store](https://itunes.apple.com/gb/app/snapdonate/id919439200?mt=8))
 * Donate a Photo ([App Store](https://itunes.apple.com/gb/app/donate-photo-free-charity/id620919587?mt=8))
