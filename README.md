@@ -7,6 +7,7 @@ This is list of charity Apps is iOS focussed. Many of these Apps might not be av
 * [x] Go Fund Me ([App Store](https://itunes.apple.com/us/app/gofundme/id734130700?mt=8)) - [review](./reviews/GoFundMe.md)
 * [x] Good Neighbors ([App Store](https://itunes.apple.com/us/app/%EA%B5%BF%EB%84%A4%EC%9D%B4%EB%B2%84%EC%8A%A4/id398454840?mt=8)) - [review](./reviews/GoodNeighbors.md)
 * [x] One Today ([App Store](https://itunes.apple.com/us/app/one-today/id740270200)) - [review](./reviews/OneToday.md)
+* [x] Give 2 Charity ([App Store](https://itunes.apple.com/us/app/give-2-charity-donations/id586823745?mt=8)) - not available in 🇬🇧 - [review](./reviews/Give2Charity.md)
 
 * [ ] Snap Donate ([App Store](https://itunes.apple.com/gb/app/snapdonate/id919439200?mt=8))
 * [ ] Donate a Photo ([App Store](https://itunes.apple.com/gb/app/donate-photo-free-charity/id620919587?mt=8))
@@ -26,4 +27,3 @@ This is list of charity Apps is iOS focussed. Many of these Apps might not be av
 * [ ] My Poppy ([App Store](https://itunes.apple.com/gb/app/my-poppy/id932041402?mt=8))
 * [ ] Give as you Live ([App Store](https://itunes.apple.com/gb/app/give-as-you-live/id739773339?mt=8))
 * [ ] Total Giving ([App Store](https://itunes.apple.com/gb/app/total-giving/id719469558?mt=8))
-* [ ] Give 2 Charity ([App Store](https://itunes.apple.com/us/app/give-2-charity-donations/id586823745?mt=8)) - not available in 🇬🇧
