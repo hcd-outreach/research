@@ -15,10 +15,16 @@ This policy shows with the sign in page.
 > GoFundMe's fee is 5% from each donation you receive. The payment processor fee is 2.9% + $0.30 per donation. By continuing, you agree with the GoFundMe fees, terms and privacy policy.
 
 ## Screenshots
-![](./img/gofundme01.PNG)
-![](./img/gofundme02.PNG)
-![](./img/gofundme03.PNG)
-![](./img/gofundme04.PNG)
-![](./img/gofundme05.PNG)
-![](./img/gofundme06.PNG)
-![](./img/gofundme07.PNG)
+![](./img/GoFundMe_001.png)
+
+![](./img/GoFundMe_002.png)
+
+![](./img/GoFundMe_003.png)
+
+![](./img/GoFundMe_004.png)
+
+![](./img/GoFundMe_005.png)
+
+![](./img/GoFundMe_006.png)
+
+![](./img/GoFundMe_007.png)
