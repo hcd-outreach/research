@@ -10,11 +10,16 @@ The feedback after the donation felt canned and added little information. Use of
 
 Facebook and notification features felt unnecessary as it remains unclear what value they would add.
 
-👎 limited information on how money is spent
-👎 unclear why notifications are requested at all
-👎 unclear why Facebook is used
-👍 range of payment options including Apple Pay
-👍 news feed of recent articles links directly through to giving
+### Cons:
+
+* 👎 limited information on how money is spent
+* 👎 unclear why notifications are requested at all
+* 👎 unclear why Facebook is used
+
+### Pros:
+
+* 👍 range of payment options including Apple Pay
+* 👍 news feed of recent articles links directly through to giving
 
 ## Screenshots
 
