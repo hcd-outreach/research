@@ -8,9 +8,15 @@ What’s good about this app is that its story telling.
 It introduces people’s story with card news, and each story also has story with photos, easy to scroll down and feel empathy.
 
 ## Screenshots
-![](./img/goodneighbors01.PNG)
-![](./img/goodneighbors02.PNG)
-![](./img/goodneighbors03.PNG)
-![](./img/goodneighbors04.PNG)
-![](./img/goodneighbors05.PNG)
-![](./img/goodneighbors06.PNG)
+
+![](./img/GoodNeighbors_001.png)
+
+![](./img/GoodNeighbors_002.png)
+
+![](./img/GoodNeighbors_003.png)
+
+![](./img/GoodNeighbors_004.png)
+
+![](./img/GoodNeighbors_005.png)
+
+![](./img/GoodNeighbors_006.png)
