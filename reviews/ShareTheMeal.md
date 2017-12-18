@@ -18,4 +18,24 @@ Facebook and notification features felt unnecessary as it remains unclear what v
 
 ## Screenshots
 
-tbc
+![](./img/ShareTheMeal_001.png)
+
+![](./img/ShareTheMeal_002.png)
+
+![](./img/ShareTheMeal_003.png)
+
+![](./img/ShareTheMeal_004.png)
+
+![](./img/ShareTheMeal_005.png)
+
+![](./img/ShareTheMeal_006.png)
+
+![](./img/ShareTheMeal_007.png)
+
+![](./img/ShareTheMeal_008.png)
+
+![](./img/ShareTheMeal_009.png)
+
+![](./img/ShareTheMeal_010.png)
+
+![](./img/ShareTheMeal_011.png)
