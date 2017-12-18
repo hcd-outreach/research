@@ -26,18 +26,18 @@ Can lead to targeted advertisements on your device
 
 
 ## Screenshots
-![](./img/Give2Charity_01.png)
+![](./img/Give2Charity_01.PNG)
 
-![](./img/Give2Charity_02.png)
+![](./img/Give2Charity_02.PNG)
 
-![](./img/Give2Charity_03.png)
+![](./img/Give2Charity_03.PNG)
 
-![](./img/Give2Charity_04.png)
+![](./img/Give2Charity_04.PNG)
 
-![](./img/Give2Charity_05.png)
+![](./img/Give2Charity_05.PNG)
 
-![](./img/Give2Charity_06.png)
+![](./img/Give2Charity_06.PNG)
 
-![](./img/Give2Charity_07.png)
+![](./img/Give2Charity_07.PNG)
 
-![](./img/Give2Charity_08.png)
+![](./img/Give2Charity_08.PNG)
