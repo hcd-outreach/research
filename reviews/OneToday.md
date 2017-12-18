@@ -13,16 +13,25 @@ However, the charities are all separate entities and link to more information to
 
 Pros:
 Social Integration
+
 Community Encouragement through Matching system
+
 Simple donation system
+
 Donation Tracking
+
 Achievement system
 
 Cons:
+
 No detailed information about where your money goes or exactly how it is used
+
 Charities link to external websites
+
 Policies vary depending on individual charity (some give detailed info in app, others give less)
+
 Lack of standardization across charities for information
+
 
 ## Screenshots
 ![](./img/One_Today_01.jpeg)
