@@ -1,7 +1,7 @@
 # One Today
 
 ## Summary
-This is Google's "One Today (https://onetoday.google.com) charity app.
+This is Google's "One Today" (https://onetoday.google.com) charity app.
 
 This app starts with a checkbox list of selection areas that you care about (Animals, Environment, Health, Civil Rights & Liberties, Poverty). Afterwards you select your google account to log in and it populates the projects with charities in your selected areas.
 
