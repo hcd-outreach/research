@@ -6,6 +6,7 @@ This is list of charity Apps is iOS focussed. Many of these Apps might not be av
 * [x] Share the Meal ([App Store](https://itunes.apple.com/us/app/sharethemeal/id977130010)) - [review](./reviews/ShareTheMeal.md)
 * [x] Go Fund Me ([App Store](https://itunes.apple.com/us/app/gofundme/id734130700?mt=8)) - [review](./reviews/GoFundMe.md)
 * [x] Good Neighbors ([App Store](https://itunes.apple.com/us/app/%EA%B5%BF%EB%84%A4%EC%9D%B4%EB%B2%84%EC%8A%A4/id398454840?mt=8)) - [review](./reviews/GoodNeighbors.md)
+* [x] One Today ([App Store](https://itunes.apple.com/us/app/one-today/id740270200)) - [review](./reviews/OneToday.md)
 
 * [ ] Snap Donate ([App Store](https://itunes.apple.com/gb/app/snapdonate/id919439200?mt=8))
 * [ ] Donate a Photo ([App Store](https://itunes.apple.com/gb/app/donate-photo-free-charity/id620919587?mt=8))
@@ -15,7 +16,6 @@ This is list of charity Apps is iOS focussed. Many of these Apps might not be av
 * [ ] Walk for a Dog ([App Store](https://itunes.apple.com/us/app/walk-for-a-dog/id643857704?mt=8))
 * [ ] Tinbox ([App Store](https://itunes.apple.com/us/app/tinbox-support-great-causes/id982530168?mt=8))
 * [ ] I Can Go Without ([App Store.](https://itunes.apple.com/ca/app/i-can-go-without-charity-micro/id669261809?mt=8))
-* [ ] One Today ([App Store](https://itunes.apple.com/us/app/one-today/id740270200))
 * [ ] Check-in for Good ([App Store](https://itunes.apple.com/us/app/check-in-for-good/id536219052?mt=8))
 * [ ] VolunteerMatch (no longer available)
 * [ ] My Life as a Refugee ([App Store](https://itunes.apple.com/gb/app/my-life-as-a-refugee/id530541420?mt=8))
