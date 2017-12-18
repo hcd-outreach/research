@@ -1,7 +1,7 @@
 # Give2Charity
 
 ## Summary
-This is an interesting charity app in that users do not donate money, but rather their personal information via location tracking, cookies, browser history, and survey responses.
+This is an interesting charity app in that users do not donate money, but rather their personal information via location tracking, cookies, browser history, referrals, and survey responses.
 
 There is some light gamification by accruing points from these various personal information gathering, but the whole thing is a little off putting to be honest. I personally don't like the idea of my personal information being sold to data mining or targeted advertisement. That said, for people without a means to give, Give2Charity offers an alternative option.
 
