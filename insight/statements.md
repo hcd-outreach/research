@@ -13,27 +13,19 @@
 
 ## Theme: Payment
 
-1. Pre-determined options for recommended donation amounts help people pick the
-   amount to donate.
-2. Donating available change at the end of a supermarket checkout is
-   a frictionless way to donate.
+1. Predetermined options for recommended donation amounts help people pick the amount to donate.
+2. Donating available change at the end of a supermarket checkout is a frictionless way to donate.
 3. People don't like to talk about how much they have donated.
-4. People find it difficult to gauge monetary amounts, preferring "all you can
-   eat" deals.
-5. Parting with available change is decreasing in popularity as society moves
-   towards away from cash for every day transactions.
-6. Recurring donations are effective in the short term, but often lead to
-   cancellation.
-7. The thought of cancelling a recurring donation has put people off donating
-   in the first place.
+4. People find it difficult to gauge monetary amounts, preferring "all you can eat" deals.
+5. Parting with available change is decreasing in popularity as society moves towards away from cash for every day transactions.
+6. Recurring donations are effective in the short term, but often lead to cancellation.
+7. The thought of cancelling a recurring donation has put people off donating in the first place.
 
 ### Insight
 
 1. People find it difficult to gauge how much to donate.
-2. People find it easy to discard change, but this is a challenge in a cashless
-   society.
-3. Recurring transactions are particularly hard to assess and the idea of
-   cancelation introduces friction into the donation process.
+2. People find it easy to discard change, but this is a challenge in a cashless society.
+3. Recurring transactions are particularly hard to assess and the idea of cancelation introduces friction into the donation process.
 
 ### How might we
 
